@@ -30,4 +30,4 @@ In a broader context, the application's architecture can be expanded to develop 
 2. **Efficient Inventory Management:** The application excels at managing book details, quantities, and prices, offering a streamlined solution for book inventory control. This efficiency can be scaled and adapted to meet the demands of larger inventories in a commercial setting.
 
 ## Process Plan
-![JavaFinal](https://github.com/garghg/JLibrarian/assets/139658164/fe470adc-8090-4f10-92fd-022404849a90)
+![JFinalFlowchart](https://github.com/garghg/JLibrarian/assets/139658164/4344468d-e5dc-44d1-92ed-a1a627f61776)
