@@ -59,3 +59,4 @@ Certainly, let's delve deeper into each development step to provide a more detai
    - **User Manuals:** Prepared comprehensive user manuals that cover installation instructions, a guide to using the application, troubleshooting tips, and contact information for support.
    - **Codebase Overview:** Created documentation outlining the overall structure of the codebase, the purpose of each package and class, and dependencies between different components.
 ---
+![JavaFinal](https://github.com/garghg/JLibrarian/assets/139658164/fe470adc-8090-4f10-92fd-022404849a90)
